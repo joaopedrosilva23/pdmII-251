@@ -1,7 +1,15 @@
-Evidenciar a execução do exemplo  de isolates contido no github da disciplina https://github.com/ricdtaveira/mobdev-parte-01/blob/master/16-programacao-assincrona/16-isolates-03.dart.
-Para isso :
-1) Criar um projeto Dart;
-2) Inserir um print de uma string com o seu nome;
-3) Fazer um print da execução;
-4)  Fazer o push para o github na aba avaliacao-03. 
-5)  Postar na entrega da tarefa o link da pasta do github.
+Usar a IA GENERATIVA em https://www.blackbox.ai/ para executar o seguinte Prompt.
+Prompt:
+Como um programador DART, criar um projeto DART onde é
+acessado um banco de dados sqlite3.
+O programa criará uma tabela TB_ALUNO cujos atributos são:
+id inteiro autoincrementado,
+nome string com 50 caracteres.
+Incluir uma funcionalidade para receber dados do teclado para
+gravar na tabela TB_ALUNO. 
+Uma outra funcionalidade faz a
+leitura da tabela e apresenta na tela.
+
+Entrega:
+Executar o projeto gerado pela IA.
+Evidenciar a execução criando prints das saídas e do código do projeto no Github.
