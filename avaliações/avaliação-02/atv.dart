@@ -22,7 +22,7 @@ class Funcionario {
     this._dependentes = dependentes;
   }
 
-  // Método de cria que retorna um json
+  // Método que retorna json
   Map<String, dynamic> toJson() {
     return {
       'nome': _nome,
